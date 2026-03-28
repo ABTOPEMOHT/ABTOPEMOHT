@@ -2,8 +2,8 @@
 
 I build cool things
 
-🚀 **My Projects:**
+**My Projects:**
 - [**ADHDfy**](link-to-your-repo) for Spicetify
 
-📫 **dm to reach me:**
+**dm to reach me:**
 [**Telegram**](https://t.me/umlace)
