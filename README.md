@@ -3,7 +3,7 @@
 I build cool things
 
 **My Projects:**
-- [**ADHDfy**](link-to-your-repo) for Spicetify
+- [**ADHDfy**](https://github.com/ABTOPEMOHT/ADHDfy) for Spicetify
 
 **dm to reach me:**
 [**Telegram**](https://t.me/umlace)
